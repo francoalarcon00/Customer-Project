@@ -1,4 +1,4 @@
-# Diamond Price Project
+# Customer Cost Prediction
 ## EDA - Data Visualization - Machine Learning
 
 ![Jupyter-Notebook](https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg)
@@ -41,7 +41,8 @@ streamlit run app.py
 ```
 This command run the web app in your browser
 ## Demo 🪐
-    linkkkkkk
+
+linkkkkkk
 
 ## Step by Step Analysis
 
