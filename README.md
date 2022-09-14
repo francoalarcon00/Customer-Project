@@ -7,11 +7,7 @@
 
 ### Problem
 Food Mart (CFM) is a chain of convenience stores in the United States. The private company's headquarters are located in Mentor, Ohio, and there are currently approximately 325 stores located in the US. Convenient Food Mart operates on the franchise system.
-We try to predict customer's cost.
-
-## Features 👀
-
-(features)
+We try to predict cost on media campaigns in Food Mart of USA.
 
 ## Tech 🛡
 
@@ -42,7 +38,7 @@ streamlit run app.py
 This command run the web app in your browser
 ## Demo 🪐
 
-linkkkkkk
+[Customer-App]https://huggingface.co/spaces/francoalarcon00/customer-app
 
 ## Step by Step Analysis
 
