@@ -38,7 +38,7 @@ streamlit run app.py
 This command run the web app in your browser
 ## Demo 🪐
 
-[Customer-App]https://huggingface.co/spaces/francoalarcon00/customer-app
+[Customer-App](https://huggingface.co/spaces/francoalarcon00/customer-app)
 
 ## Step by Step Analysis
 
