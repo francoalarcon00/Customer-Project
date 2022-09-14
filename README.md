@@ -46,9 +46,9 @@ linkkkkkk
 
 ## Step by Step Analysis
 
-1. Run data_cleaning.ipynb --> Clean process
+1. Run clean_data.ipynb --> Clean process
 
-2. Run glass_analysis.ipynb --> Analysis process and EDA
+2. Run analysis.ipynb --> Analysis process and EDA
 
 3. Run model.ipynb --> Modeling, training, testing and results process
 ## Source
